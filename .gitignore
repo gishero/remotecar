@@ -4,3 +4,7 @@ bluetoothtest/.vscode/c_cpp_properties.json
 bluetoothtest/.vscode/settings.json
 .vscode/arduino.json
 .vscode/c_cpp_properties.json
+motortest/.vscode/arduino.json
+.gitignore
+motortest/.vscode/c_cpp_properties.json
+motortest/.vscode/settings.json
